@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
-# key: getCoordinates
-# name: Get coordinates.
-# group: Print
-# key: getCoordinates
-# --
-$0
