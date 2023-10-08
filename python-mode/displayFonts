@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
+# key: displayFonts
+# name: Print to the screen as labels the 21 font ids in their corresponding fonts in a grid. Each label is an object and appears in the internal gui. You can turn on and off the display of specific fonts.
+# group: Labels
+# key: displayFonts
+# --
+$0

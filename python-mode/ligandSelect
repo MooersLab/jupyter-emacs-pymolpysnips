@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
+# key: ligandSelect
+# name: Make selection of ligand atoms.
+# group: Selection
+# key: ligandSelect
+# --
+cmd.do("select ${1:ligand}, organic;")
+$0
