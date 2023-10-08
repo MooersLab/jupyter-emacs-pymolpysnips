@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
 # key: grayscale
-# name: Apply grayscale coloring using a grayscale version of the PyMOL colors for the elements. This is a Python function. It is invoked in a script file via grayscale(). There is a corresponding gscale shortcut in pymolshortcuts.py that is invoked in a pml script by entering gsale if the functions in pymolshortcuts.py have been loaded with the run pymolshortcuts.py command.
+# name: Apply grayscale coloring using a grayscale version of the PyMOL colors for the elements. This is a Python function. It is invoked in a script file via grayscale(). There is a corresponding gscale shortcut in pymolshortcuts.py that is invoked in a pml script by entering gscale if the functions in pymolshortcuts.py have been loaded with the run pymolshortcuts.py command.
 # group: ColorScheme
 # key: grayscale
 # --
