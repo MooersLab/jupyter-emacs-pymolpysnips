@@ -1,8 +1,0 @@
-# -*- mode: snippet -*-
-# contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
-# key: saln
-# name: Save an aln flle with a timestamp.
-# group: FileIO
-# key: saln
-# --
-$0
