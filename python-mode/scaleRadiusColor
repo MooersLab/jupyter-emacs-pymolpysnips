@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Blaine Mooers, bmooers1@gmail.com, github.com/MooersLab
+# key: scaleRadiusColor
+# name: Scale the radius and color of atoms as spheres by property in the B-value column.
+# group: MolecularRepresentation
+# key: scaleRadiusColor
+# --
+$0
