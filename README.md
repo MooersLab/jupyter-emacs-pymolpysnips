@@ -8,6 +8,6 @@ The snippets are usually stored in `~/.emacs.d/snippets/python-mode`.
 ## Note
 
 Some snippets depend on some pymolshortcuts.
-Add the [pymolshortcuts.py]() file to working working directory.
+Add the [pymolshortcuts.py](https://github.com/MooersLab/pymolshortcuts) file to working working directory.
 
 
